@@ -61,3 +61,10 @@ Tệp chính: [esp.cpp](esp.cpp#L1) — mã nguồn xử lý web server, đọc 
 Nếu bạn muốn, tôi có thể:
 - Thêm hướng dẫn lắp mạch (sơ đồ) và danh sách linh kiện (BOM).
 - Chuyển `esp.cpp` sang `main.cpp` và cấu trúc project cho PlatformIO.
+
+---
+
+## Hình ảnh
+
+Ảnh minh họa:
+![Máy lọc không khí](Demo.jpg)
